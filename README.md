@@ -1,7 +1,4 @@
 Oioi! Eu sou o Caio!<br>
-🔭 Trabalho hoje com suporte <br>
-🌱 Estou estudando Spring Boot atualmente<br>
-😄 Pronouns: Ele/Dele<br>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
